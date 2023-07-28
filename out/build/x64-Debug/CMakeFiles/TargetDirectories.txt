@@ -1,0 +1,9 @@
+C:/Users/aser/source/repos/cppl-homework/4/Task 4.1/out/build/x64-Debug/CMakeFiles/Task.4.1.dir
+C:/Users/aser/source/repos/cppl-homework/4/Task 4.1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/aser/source/repos/cppl-homework/4/Task 4.1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/aser/source/repos/cppl-homework/4/Task 4.1/out/build/x64-Debug/Catch2-build/CMakeFiles/edit_cache.dir
+C:/Users/aser/source/repos/cppl-homework/4/Task 4.1/out/build/x64-Debug/Catch2-build/CMakeFiles/rebuild_cache.dir
+C:/Users/aser/source/repos/cppl-homework/4/Task 4.1/out/build/x64-Debug/Catch2-build/src/CMakeFiles/Catch2.dir
+C:/Users/aser/source/repos/cppl-homework/4/Task 4.1/out/build/x64-Debug/Catch2-build/src/CMakeFiles/Catch2WithMain.dir
+C:/Users/aser/source/repos/cppl-homework/4/Task 4.1/out/build/x64-Debug/Catch2-build/src/CMakeFiles/edit_cache.dir
+C:/Users/aser/source/repos/cppl-homework/4/Task 4.1/out/build/x64-Debug/Catch2-build/src/CMakeFiles/rebuild_cache.dir
